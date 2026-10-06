@@ -5,8 +5,7 @@ Este repositorio contiene el caso de estudio y la documentación del diseño UX/
 ---
 
 ## 🔗 Enlaces del Proyecto
-* **[Ver Prototipo Interactivo en Figma](PEGA_AQUÍ_EL_ENLACE_DE_TU_PROTOTIPO_DE_FIGMA)**
-* **[Ver Archivo de Diseño en Figma](PEGA_AQUÍ_EL_ENLACE_DE_TU_ARCHIVO_DE_FIGMA)**
+* **[Ver Archivo de Diseño en Figma](PEGA_AQUÍ_TU_ENLACE_DE_FIGMA)**
 
 ---
 
@@ -15,9 +14,6 @@ Este repositorio contiene el caso de estudio y la documentación del diseño UX/
 ### Historias de Usuario (User Stories)
 * **HU01 - Dashboard Visual:** Como Reclutador, quiero visualizar gráficos interactivos del porcentaje de coincidencia de los candidatos para tomar decisiones de contratación más rápidas.
 * **HU02 - Experiencia Mobile:** Como Reclutador, necesito revisar el estado de las postulaciones desde mi dispositivo móvil con una interfaz adaptada y legible.
-
-### Wireframes (Estructura Inicial)
-![Wireframe de Baja Fidelidad](img/wireframe.png)
 
 ---
 
@@ -42,7 +38,8 @@ Se crearon layouts específicos para dos resoluciones críticas que validan el c
 
 | Versión Desktop | Versión Mobile |
 | :---: | :---: |
-| ![Desktop Version](img/desktop.png) | ![Mobile Version](img/mobile.png) |
+| ![Desktop Version](JobRanker.jpg) | ![Mobile Version](JobRanker2.jpg) |
 
 ---
 *Diseñado por Piero Yancala - 2026*
+
